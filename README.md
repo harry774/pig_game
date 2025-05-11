@@ -7,4 +7,4 @@ A dice rolling game for 2 player
 - Players can either keep rolling dice to icrease score or hold to secure the current score 
 > Risk Vs Reward :D 
 
-Deployed at: https://pig-game74.herokuapp.com/
+Deployed at: https://pig-game-pied-ten.vercel.app
